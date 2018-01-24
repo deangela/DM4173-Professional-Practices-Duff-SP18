@@ -1,7 +1,7 @@
 ### DM-UY 4173 Professional Practices for Creatives
 ##### Spring 2018 • De Angela L. Duff • Tuesdays • De Angela L. Duff • 5:30 - 9:10 PM • 2MTC MAGNET 811
 
-# ASSIGNMENT: GOALS
+# Goals
 
 _"In the long run men only hit what they aim at. Therefore, though they should fail immediately, they had better aim at something high."_ ~ Henry David Thoreau
 

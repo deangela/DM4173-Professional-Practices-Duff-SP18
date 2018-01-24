@@ -1,7 +1,7 @@
 ### DM-UY 4173 Professional Practices for Creatives
 ##### Spring 2018 • De Angela L. Duff • Tuesdays • De Angela L. Duff • 5:30 - 9:10 PM • 2MTC MAGNET 811
 
-# ASSIGNMENT: PLANNER AND/OR JOURNAL
+# Planner and/or Journal
 
 * Procure and use an analog or digital planner or journal on a daily or weekly basis.
 * Please edit the **Calendar and Planner / Journal Choice** note pinned on the pro_sp18 slack channel and list planner(s)/journal(s) you currently use or will be using this semester.

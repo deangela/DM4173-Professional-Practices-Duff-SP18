@@ -2,7 +2,7 @@
 ##### Spring 2018 • De Angela L. Duff • Tuesdays • De Angela L. Duff • 5:30 - 9:10 PM • 2MTC MAGNET 811
 
 
-# ASSIGNMENTS: MIDTERM & FINAL SELF ASSESSMENTS
+# Midterm & Final Self Assessments
 
 ---
 

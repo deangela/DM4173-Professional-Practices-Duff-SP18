@@ -1,7 +1,7 @@
 ### DM-UY 4173 Professional Practices for Creatives
 ##### Spring 2018 • De Angela L. Duff • Tuesdays • De Angela L. Duff • 5:30 - 9:10 PM • 2MTC MAGNET 811
 
-# ASSIGNMENT: SHOULD VS. MUST
+# Should vs. Must
 
 _"To be nobody but yourself in a world which is doing its best day and night to make you like everybody else means to fight the hardest battle which any human being can fight– but never stop fighting."_ - e. e. cummings 
 

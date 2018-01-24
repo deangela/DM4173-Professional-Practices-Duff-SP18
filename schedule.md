@@ -1,7 +1,7 @@
 ### DM-UY 4173 Professional Practices for Creatives
 ##### Spring 2018 • De Angela L. Duff • Tuesdays • De Angela L. Duff • 5:30 - 9:10 PM • 2MTC MAGNET 811
 
-# SCHEDULE
+# Schedule
 
 ---
 
@@ -148,7 +148,7 @@
 <li>Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>
 <li><a href="self_assessments.md">Midterm Self Assessment Due</a></li>
 <li>Status of <a href="fact-finding_interview.md">Fact-finding informational interview</a>
-<li>Your <a href="network.md">professional networking</a> requirement should be done by or before this date.</li>
+
 </ul></td>
 </tr>
 
@@ -169,8 +169,10 @@
 <tr>
 <td><strong>Apr 10</strong></td>
 <td>
-<strong>Are you good at interviewing and negotiating?</strong>
+<strong>Are you good at networking, interviewing and negotiating?</strong>
 <ul>
+<li>Your <a href="network.md">professional networking</a> requirement should be done by or before this date.</li>
+<li>Networking</li>
 <li>Interview Techniques</li>
 <li>Salary Negotiation</li>
 <li>Freelance Practices</li>
@@ -186,14 +188,14 @@
 <tr>
 <td><strong>Apr 24</strong></td>
 <td><ul>
-<li><a href="mock_interview.md">Mock Interviews</a> (Tentative</li>
+<li><a href="mock_interview.md">Mock Interviews</a> (Tentative)</li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
 
 <tr>
 <td><strong>May 1</strong></td>
-<td>Watch the following and post your response on the designated slack channel. Do not write a summary. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own thoughts and ideas or how it will inform or change your future.<ul>
+<td>Watch the following and post your response on the designated slack channel. Do not write a summary. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own thoughts and ideas or how it will inform or change your future goals.<ul>
 <li><a href="https://vimeo.com/34608191" target="_blank">PressPausePlay Documentary</a></li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
@@ -201,7 +203,7 @@
 
 <tr>
 <td><strong>May 8</strong></td>
-<td>Read the following and post your response on the designated slack channels. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while reading, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).<ul>
+<td>Read the following and post your response on the designated slack channels. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while reading, how it reflects your own future goals (or does not and why) or how it will inform or change your own future goals (or will not and why).<ul>
 
 <li><a href="http://charliehoehn.files.wordpress.com/2009/07/recession-proof-graduate1.pdf" target="_blank">Recession-Proof Graduate: Charlie Hoehn’s Guide To Getting Any Job Within A Year Of  Finishing College</a> by Charlie Hoehn
 <li><a href="http://www.fastcompany.com/magazine/162/average-time-spent-at-job-4-years?"  target="_blank">The Four-Year Career</a> by Anya Kamenetz</li> 

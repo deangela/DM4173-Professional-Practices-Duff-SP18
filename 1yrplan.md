@@ -1,7 +1,7 @@
 ### DM-UY 4173 Professional Practices for Creatives
 ##### Spring 2018 • De Angela L. Duff • Tuesdays • De Angela L. Duff • 5:30 - 9:10 PM • 2MTC MAGNET 811
 
-# ASSIGNMENT: ONE-YEAR PLAN
+# One-year Plan
 
 _"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And YOU are the one who'll decide where to go..."_
 

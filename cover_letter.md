@@ -1,7 +1,7 @@
 ### DM-UY 4173 Professional Practices for Creatives
 ##### Spring 2018 • De Angela L. Duff • Tuesdays • De Angela L. Duff • 5:30 - 9:10 PM • 2MTC MAGNET 811
 
-# ASSIGNMENT: Cover Letter
+# Cover Letter
 
 The cover letter gives you an opportunity to explain your value and distinguishing aspects while building the “story of you.”
 
