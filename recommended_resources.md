@@ -44,6 +44,10 @@
 *Networking*
 * [Never Eat Alone](https://www.amazon.com/Never-Eat-Alone-Expanded-Updated/dp/B00H6JBFOS/ref=sr_1_1?s=books&ie=UTF8&qid=1516833304&sr=1-1&keywords=never+eat+alone) by Keith Ferrazzi 
 
+*Branding*
+* [Zag: The Number One Strategy of High-Performance Brands](https://www.amazon.com/Zag-Number-Strategy-High-Performance-Brands/dp/0321426770/ref=sr_1_3?ie=UTF8&qid=1516833998&sr=8-3&keywords=marty+neumeier) by Marty Neumeier
+
+
 *Crowdsource Funding*
 * [Kickstarter](http://kickstarter.com)
 * [Indiegogo](http://www.indiegogo.com)
