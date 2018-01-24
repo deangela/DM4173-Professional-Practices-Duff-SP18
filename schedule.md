@@ -68,7 +68,7 @@
     <ul>
     <li>Group Share</li>
     <ul>
-    <li><a href="inspiration.md">Inspiration (Audio Podcast or Video (Ted, EYEO, Lynda.com) Analysis)</li>    
+    <li><a href="inspiration.md">Inspiration</li>    
     <li><a href="obituary_eulogy.md">Obituary or Eulogy</a></li>
     </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
