@@ -55,6 +55,7 @@
     <ul>
     <li><a href="reflection_journal.md">Reflection Journal</a></li>
     <li><a href="values.md">Values</a></li>
+    <li><a href="goals.md">Goals</a></li>
     </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </td>
@@ -67,8 +68,7 @@
     <ul>
     <li>Group Share</li>
     <ul>
-    <li><a href="inspiration.md">Inspiration (Audio Podcast or Video (Ted, EYEO, Lynda.com) Analysis)</li>
-    <li><a href="goals.md">Goals</a></li>
+    <li><a href="inspiration.md">Inspiration (Audio Podcast or Video (Ted, EYEO, Lynda.com) Analysis)</li>    
     <li><a href="obituary_eulogy.md">Obituary / Eulogy</a></li>
     </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
@@ -83,8 +83,6 @@
 <ul>
 <li><a href="creative_industries_research.md">Creative Industries Research</a></li>
 <li><a href="statement.md">Creative or Research Statement</a></li>
-<li><a href="1yrplan.md">1-Year Plan</a></li>
-<li><a href="1yearletter.md">1-Year Letter to Yourself</a></li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -92,10 +90,10 @@
 <tr>
 <td><strong>Feb 27</strong></td>
 <td>
-<strong>Who do you want to be?</strong>
+<strong>Who/What/Where do you want to be in one year?</strong>
 <ul>
-<li><a href="bio.md">Bio / About Page</a> Draft</li>
-<li><a href="linkedin.md">LinkedIn Profile</a> Draft</li>
+<li><a href="1yrplan.md">1-Year Plan</a></li>
+<li><a href="1yearletter.md">1-Year Letter to Yourself</a></li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -103,11 +101,11 @@
 <tr>
 <td><strong>Mar 6</strong></td>
 <td>
+<strong>Who do you want to be?</strong>
 <ul>
-<li><a href="cover_letter.md">Cover Letter</a> 1st Draft
-<li><a href="resume.md">Resume</a> 1st Draft
-<li><a href="bio.md">Bio / About Page</a> 2nd Draft</li>
-<li><a href="linkedin.md">LinkedIn Profile</a> 2nd Draft</li>
+<li><a href="bio.md">Bio / About Page</a> 1st Draft</li>
+<li><a href="linkedin.md">LinkedIn Profile</a> 1st Draft</li>
+<li><a href="cover_letter.md">Cover Letter</a> 1st Draft</li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -120,9 +118,14 @@
 
 <tr>
 <td><strong>Mar 20</strong></td>
-<td><ul>
+<td>
+<strong>Who do you want to do?</strong>
+<ul>
+<li><a href="resume.md">Resume</a> 1st Draft</li>
+<li><a href="bio.md">Bio / About Page</a> 2nd Draft</li>
+<li><a href="linkedin.md">LinkedIn Profile</a> 2nd Draft</li>
 <li><a href="cover_letter.md">Cover Letter</a> 2nd Draft
-<li><a href="resume.md">Resume</a> 2nd Draft
+
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -190,7 +193,7 @@
 
 <tr>
 <td><strong>May 1</strong></td>
-<td>Watch the followoing and post your response on the designated slack channel. Do not write a summary. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own thoughts and ideas or how it will inform or change your future.<ul>
+<td>Watch the following and post your response on the designated slack channel. Do not write a summary. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own thoughts and ideas or how it will inform or change your future.<ul>
 <li><a href="https://vimeo.com/34608191" target="_blank">PressPausePlay Documentary</a></li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
@@ -198,7 +201,7 @@
 
 <tr>
 <td><strong>May 8</strong></td>
-<td>Read the followoing and post your response on the designated slack channels. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while reading, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).<ul>
+<td>Read the following and post your response on the designated slack channels. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while reading, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).<ul>
 
 <li><a href="http://charliehoehn.files.wordpress.com/2009/07/recession-proof-graduate1.pdf" target="_blank">Recession-Proof Graduate: Charlie Hoehn’s Guide To Getting Any Job Within A Year Of  Finishing College</a> by Charlie Hoehn
 <li><a href="http://www.fastcompany.com/magazine/162/average-time-spent-at-job-4-years?"  target="_blank">The Four-Year Career</a> by Anya Kamenetz</li> 
