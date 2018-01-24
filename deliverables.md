@@ -4,12 +4,12 @@
 
 # Deliverables
 
-### Create a google drive folder, Pro Practices SP18 Your_First_Name
-### Share with deangela.duff@nyu.edu 
+* Create a google drive folder, Pro Practices SP18 Your_First_Name
+* Share with deangela.duff@nyu.edu 
 
 with documentation of the following assignments:
 
-#### Reflection and Planning
+**Reflection and Planning**
 
 * [Planner / Semester Milestones](planner.md)
 * [Analog or Digital Calendar](calendar.md)
@@ -23,17 +23,17 @@ with documentation of the following assignments:
 * [1-Year Letter to Yourself](1yearletter.md)
 * [Inspiration (Audio Podcast Analysis or Video Analysis)](inspiration.md)
 
-#### Documentation & Presentation
+**Documentation & Presentation**
 
 * [Web Portfolio](web_portfolio.md)
 * [Ignite or Pecha Kucha Slideshow Presentation](presentation.md)
 
-#### Exhibition & Promotion
+**Exhibition & Promotion**
 
 * [IDM End of Year Student Showcase](idm_student_showcase.md)
 * [Promo Material)](promo.md)
 
-#### Career Preparation
+**Career Preparation**
 
 * [Resume](resume.md)
 * [Cover Letter](cover_letter.md)
