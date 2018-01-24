@@ -14,7 +14,7 @@ Prerequisite: None
 
 #### Course Management Site: [http://bxmc.slack.com](http://bxmc.slack.com)
 
-####  Office hours by appointment through [https://calendly.com/deangela](https://calendly.com/deangela) or directly after class 
+####  Office hours by appointment through [https://calendly.com/deangela](https://calendly.com/deangela)  
 
 ---
 
