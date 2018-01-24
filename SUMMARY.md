@@ -32,7 +32,7 @@
 
 ## Career Preparation
 
-* [Résume](resume.md)
+* [Resume](resume.md)
 * [Cover Letter](cover_letter.md)
 * [Bio / About Page](bio.md)
 * [Creative or Research Statement](statement.md)
