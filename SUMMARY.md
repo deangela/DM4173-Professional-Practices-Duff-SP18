@@ -6,6 +6,7 @@
 
 ### Assignments
 
+## Reflection and Planning
 * [Planner / Semester Milestones](planner.md)
 * [Analog or Digital Calendar](calendar.md)
 * [Midterm and Final Self Assessments](self_assessments.md)
@@ -17,11 +18,19 @@
 * [1-Year Plan](1yrplan.md)
 * [1-Year Letter to Yourself](1yearletter.md)
 * [Inspiration (Audio Podcast Analysis or Video Analysis)](inspiration.md)
+
+## Documentation & Presentation
+
 * [Web Portfolio](web_portfolio.md)
 * [Ignite or Pecha Kucha Slideshow Presentation](presentation.md)
-* [MAGNET Meet & Greet](meetandgreet.md)
+
+## Exhibition & Promotion
+* [IDM Meet & Greet](meetandgreet.md)
 * [IDM End of Year Student Showcase](idm_student_showcase.md)
 * [Promo Material)](promo.md)
+
+## Career Preparation
+
 * [Résume](resume.md)
 * [Cover Letter](cover_letter.md)
 * [Bio / About Page](bio.md)
