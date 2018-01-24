@@ -32,11 +32,11 @@
 <strong>Which road will you choose? Should or Must.</strong>
 <ul>
 <li>Group Share</li>
-<ul>
-<li><a href="should_must.md">Should vs. Must</a>
-<li><a href="planner.md">Planner</a></li>
-<li><a href="calendar.md">Calendar</a></li>
-</ul>
+    <ul>
+    <li><a href="should_must.md">Should vs. Must</a>
+    <li><a href="planner.md">Planner and/or Journal</a></li>
+    <li><a href="calendar.md">Calendar</a></li>
+    </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -51,8 +51,11 @@
 <td valign="top">
 <strong>What is most important to you?</strong>
 <ul>
-<li><a href="reflection_journal.md">Reflection Journal</a></li>
-<li><a href="values.md">Values</a></li>
+<li>Group Share</li>
+    <ul>
+    <li><a href="reflection_journal.md">Reflection Journal</a></li>
+    <li><a href="values.md">Values</a></li>
+    </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </td>
 </tr>
@@ -61,10 +64,13 @@
 <td><strong>Feb 13</strong></td>
 <td>
 <strong>How would you want to be remembered?</strong>
-<ul>
-<li><a href="inspiration.md">Inspiration (Audio Podcast or Video (Ted, EYEO, Lynda.com) Analysis)</li>
-<li><a href="goals.md">Goals</a></li>
-<li><a href="obituary_eulogy.md">Obituary / Eulogy</a></li>
+    <ul>
+    <li>Group Share</li>
+    <ul>
+    <li><a href="inspiration.md">Inspiration (Audio Podcast or Video (Ted, EYEO, Lynda.com) Analysis)</li>
+    <li><a href="goals.md">Goals</a></li>
+    <li><a href="obituary_eulogy.md">Obituary / Eulogy</a></li>
+    </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul>
 </td>

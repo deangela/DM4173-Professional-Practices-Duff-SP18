@@ -1,20 +1,21 @@
 ### DM-UY 4173 Professional Practices for Creatives
 ##### Spring 2018 • De Angela L. Duff • Tuesdays • De Angela L. Duff • 5:30 - 9:10 PM • 2MTC MAGNET 811
 
-# ASSIGNMENT: PLANNER OR JOURNAL
+# ASSIGNMENT: PLANNER AND/OR JOURNAL
 
 * Procure and use an analog or digital planner or journal on a daily or weekly basis.
-* Please edit the **Calendar and Planner / Journal Choice** note pinned on the pro_sp18 slack channel and list what calendar(s) and planner(s)/journal(s) you currently use or will be using this semester.
-* What do you *want* to make happen this semester?
-* What do you *need* to make happen this semester?
-* Develop a comprehensive professional plan with key goals, milestones, practical considerations, and actionable tasks that will lead you to create the vision you have of your future self that you will make happen by the end of this semester and beyond.
-* You must prioritize.
+* Please edit the **Calendar and Planner / Journal Choice** note pinned on the pro_sp18 slack channel and list planner(s)/journal(s) you currently use or will be using this semester.
+* Use your planner and/or journal on a daily or weekly basis.
+    * What do you *want* to make happen this semester?
+    * What do you *need* to make happen this semester?
+    * Develop a comprehensive professional plan with key goals, milestones, practical considerations, and actionable tasks that will lead you to create the vision you have of your future self that you will make happen by the end of this semester and beyond.
+    * You must **prioritize.**
 
 
 Resources **NOT Limited to**:
 
 **Planners**
-* [Ink &amp; Volt](https://inkandvolt.com/product/volt-planner/)
+* **[Ink &amp; Volt](https://inkandvolt.com/product/volt-planner/)**
 * [The Productivity Planner](https://www.intelligentchange.com/products/the-productivity-planner)
 * [Passion Planner](http://www.passionplanner.com/)
 

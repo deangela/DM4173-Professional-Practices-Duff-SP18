@@ -232,7 +232,7 @@ Any printed assignments should always contain the following and uploaded to the 
 * Your first and last name
 * Professional Practices for Creatives or Pro Practices
 * Spring 2018
-* Title of project or assignment
+* Title of assignment
 
 Written assignments will be assigned frequently. These will typically involve writing about you and your work, planning, and reflection. Be prepared to share your writing in class, as well as hand in your work via slack as a PDF document, PRIOR to the start of the class at which it is due. 
 
