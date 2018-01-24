@@ -3,6 +3,17 @@
 
 # ASSIGNMENT: Professional Networking
 
+## Networking Event
 * During the course of the semester, each student must attend *at least one* professional social gathering or event (e.g. gallery opening, professional association meet-up, conference, symposium, etc.) in order to meet other members of their anticipated professional / creative community. The goal of this exercise is to identify those organizations and events for professional networking and then gain experience talking informally to this community about the work that you do. 
 * Write a brief description of the experience as well as show some sort of evidence of networking with someone at the event (i.e. photo(s) of you at the event, photo(s) of you and people you met at the event, photo of business card(s) of people you met, etc.).
+
 * Post in [your google drive folder for this class](deliverables.md) in a file or folder labeled **networking**.
+
+## Aspirational Contacts
+* Make a wish list of aspirational contacts and why you want to meet them.
+* Make it happen. Document successes and failures on a **Aspirational Contacts** file in [your google drive folder for this class](deliverables.md).
+
+## (OPTIONAL) Personal Board of Advisors
+* Solicit a personal board of advisors.
+* If you choose to do this, make a wish list of your personal board of advisors and why.
+* Make it happen. Document successes and failures on a **Personal Board of Advisors** file in [your google drive folder for this class](deliverables.md).

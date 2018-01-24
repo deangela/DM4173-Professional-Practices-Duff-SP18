@@ -38,6 +38,12 @@
 * [Dealing with Clients who refuse to pay](http://www.smashingmagazine.com/2010/04/09/dealing-with-clients-who-refuse-to-pay)
 * [CSS Kill Switch](http://csskillswitch.com)
 
+*Entrepreneurship*
+* [The E-Myth Revisited](https://www.amazon.com/E-Myth-Revisited-Small-Businesses-About/dp/0887307280/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516833277&sr=8-1) by Michael Gerber
+
+*Networking*
+* [Never Eat Alone](https://www.amazon.com/Never-Eat-Alone-Expanded-Updated/dp/B00H6JBFOS/ref=sr_1_1?s=books&ie=UTF8&qid=1516833304&sr=1-1&keywords=never+eat+alone) by Keith Ferrazzi 
+
 *Crowdsource Funding*
 * [Kickstarter](http://kickstarter.com)
 * [Indiegogo](http://www.indiegogo.com)
