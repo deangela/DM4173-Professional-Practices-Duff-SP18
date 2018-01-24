@@ -10,7 +10,7 @@ Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
 Prerequisite: None
 ```
 
-#### Gitbook Repository: [https://deangela.gitbooks.io/dm-4173-professional-practices-sp18/content/](https://deangela.gitbooks.io/dm-4173-professional-practices-sp18/content/)
+#### Gitbook Repository: [https://deangela.gitbooks.io/dm-4173-professional-practices-sp18/content/syllabus.html](https://deangela.gitbooks.io/dm-4173-professional-practices-sp18/content/syllabus.html)
 
 #### Course Management Site: [http://bxmc.slack.com](http://bxmc.slack.com)
 
@@ -198,10 +198,6 @@ Each student will be judged on the quality, experimentation, and improvement tha
 ### ACADEMIC & CREATIVE HONESTY
 
 All  work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for citing and documenting source material.
-
-### RIGHTS OF USE
-
-You MUST have complete rights of use to any and all materials which appear in your final projects, with the exception of the audio for the film conversation project. This includes images, illustrations, audio etc. The source of any materials NOT created by you MUST be documented and credited. Please remember that you can collaborate with music students for audio tracks, create your own audio or contact the authors of your audio selections for rights. I strongly encourage you to use original images for all of your projects, however, should you absolutely require to use stock images/video etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated.
 
 ### ACADEMIC ACCOMODATIONS
 
