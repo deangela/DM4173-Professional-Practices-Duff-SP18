@@ -4,9 +4,8 @@
 * [Schedule](schedule.md)
 * [Recommended Resources](recommended_resources.md)
 
-### Assignments
-
 ## Reflection and Planning
+
 * [Planner / Semester Milestones](planner.md)
 * [Analog or Digital Calendar](calendar.md)
 * [Midterm and Final Self Assessments](self_assessments.md)
@@ -25,6 +24,7 @@
 * [Ignite or Pecha Kucha Slideshow Presentation](presentation.md)
 
 ## Exhibition & Promotion
+
 * [IDM Meet & Greet](meetandgreet.md)
 * [IDM End of Year Student Showcase](idm_student_showcase.md)
 * [Promo Material)](promo.md)
