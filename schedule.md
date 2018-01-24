@@ -19,9 +19,9 @@
 <td>
 <strong>What is the point of this course?</strong>
 <ul>
+<li>GUEST SPEAKER (Entrepreneur): <a href="https://en.wikipedia.org/wiki/Daniel_Delaney" target="_blank">Dan Delaney</a></li>
 <li>Review <a href="syllabus.md">Syllabus</a></li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
-<li>Guest Speaker (Entrepreneur): Dan Delaney</li>
 <li>SCREENING: <a href="http://www.ted.com/talks/lang/en/gary_vaynerchuk_do_what_you_love_no_excuses.html" target="_blank">Gary Vaynerchuk’s Do What You Love (No Excuses!)</a> 
 </ul></td>
 </tr>
@@ -49,7 +49,7 @@
 <tr>
 <td><strong>Feb 6</strong></td>
 <td valign="top">
-<strong>What is most important to you?</strong>
+<strong>What is MOST important to you?</strong>
 <ul>
 <li>Group Share</li>
     <ul>
@@ -64,12 +64,12 @@
 <tr>
 <td><strong>Feb 13</strong></td>
 <td>
-<strong>How would you want to be remembered?</strong>
+<strong>How do you want to be remembered?</strong>
     <ul>
     <li>Group Share</li>
     <ul>
     <li><a href="inspiration.md">Inspiration (Audio Podcast or Video (Ted, EYEO, Lynda.com) Analysis)</li>    
-    <li><a href="obituary_eulogy.md">Obituary / Eulogy</a></li>
+    <li><a href="obituary_eulogy.md">Obituary or Eulogy</a></li>
     </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul>
@@ -143,9 +143,10 @@
 
 <tr>
 <td><strong>Mar 28, 29, or 30</strong></td>
-<td><strong><i>Midterm One On One Appointments</i></strong>
+<td><strong><i>Midterm One On One Appointments</i></strong><br>
+Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>
 <ul>
-<li>Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>
+<li>
 <li><a href="self_assessments.md">Midterm Self Assessment Due</a></li>
 <li>Status of <a href="fact-finding_interview.md">Fact-finding informational interview</a>
 
@@ -169,13 +170,16 @@
 <tr>
 <td><strong>Apr 10</strong></td>
 <td>
-<strong>Are you good at networking, interviewing and negotiating?</strong>
+<strong>Are you good at networking, interviewing, and negotiating?</strong>
 <ul>
 <li>Your <a href="network.md">professional networking</a> requirement should be done by or before this date.</li>
-<li>Networking</li>
-<li>Interview Techniques</li>
-<li>Salary Negotiation</li>
-<li>Freelance Practices</li>
+<li>Discussion</li>
+    <ul>
+    <li>Networking</li>
+    <li>Interview Techniques</li>
+    <li>Salary Negotiation</li>
+    <li>Freelance Practices</li>
+    </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -196,7 +200,10 @@
 <tr>
 <td><strong>May 1</strong></td>
 <td>Watch the following and post your response on the designated slack channel. Do not write a summary. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own thoughts and ideas or how it will inform or change your future goals.<ul>
-<li><a href="https://vimeo.com/34608191" target="_blank">PressPausePlay Documentary</a></li>
+<li>Group Share</li>
+    <ul>
+    <li><a href="https://vimeo.com/34608191" target="_blank">PressPausePlay Documentary</a></li>
+    </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -204,10 +211,12 @@
 <tr>
 <td><strong>May 8</strong></td>
 <td>Read the following and post your response on the designated slack channels. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while reading, how it reflects your own future goals (or does not and why) or how it will inform or change your own future goals (or will not and why).<ul>
-
-<li><a href="http://charliehoehn.files.wordpress.com/2009/07/recession-proof-graduate1.pdf" target="_blank">Recession-Proof Graduate: Charlie Hoehn’s Guide To Getting Any Job Within A Year Of  Finishing College</a> by Charlie Hoehn
-<li><a href="http://www.fastcompany.com/magazine/162/average-time-spent-at-job-4-years?"  target="_blank">The Four-Year Career</a> by Anya Kamenetz</li> 
-<li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
+<li>Group Share</li>
+    <ul>
+    <li><a href="http://charliehoehn.files.wordpress.com/2009/07/recession-proof-graduate1.pdf" target="_blank">Recession-Proof Graduate: Charlie Hoehn’s Guide To Getting Any Job Within A Year Of  Finishing College</a> by Charlie Hoehn
+    <li><a href="http://www.fastcompany.com/magazine/162/average-time-spent-at-job-4-years?"  target="_blank">The Four-Year Career</a> by Anya Kamenetz</li> 
+    <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
+    </ul>
 </ul></td>
 </tr>
 
