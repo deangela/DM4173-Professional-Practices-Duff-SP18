@@ -10,7 +10,7 @@ Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
 Prerequisite: None
 ```
 
-#### Gitbook Repository: []()
+#### Gitbook Repository: [https://deangela.gitbooks.io/dm-4173-professional-practices-sp18/content/](https://deangela.gitbooks.io/dm-4173-professional-practices-sp18/content/)
 
 #### Course Management Site: [http://bxmc.slack.com](http://bxmc.slack.com)
 
@@ -161,7 +161,7 @@ Projects:
 * 2.5% [Ignite or Pecha Kucha Slideshow Presentation](presentation.md)
 
 *Exhibition & Promotion*
-* 05% [MAGNET Meet & Greet](meetandgreet.md)
+* 05% [IDM Meet & Greet](meetandgreet.md)
 * 05% [IDM End of Year Student Showcase](idm_student_showcase.md)
 * 05% [Promo Material)](promo.md)
 
