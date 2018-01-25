@@ -9,9 +9,17 @@
 
 * Post in [your google drive folder for this class](deliverables.md) in a file or folder labeled **networking**.
 
+Suggestions (not limited to):
+* [NYU Leslie elab](http://entrepreneur.nyu.edu/) [Events](http://entrepreneur.nyu.edu/calendar/) or [Workshops/Classes](http://entrepreneur.nyu.edu/workshops-classes/)
+* [Eyebeam](http://www.eyebeam.org/events/) Events
+* [HUGE Meetups](https://www.meetup.com/Huge-UX-Events/?_cookie-check=a6hVwG_PRGqPt4MM)  in Dumbo
+* Spotify Meetup
+* Any [meetup](http://www.meetup.com/) that interests you. Discover and Explore.
+* [Girl Develop It](https://www.meetup.com/girldevelopit/) Events
+
 ## Aspirational Contacts
 * Make a wish list of aspirational contacts and why you want to meet them.
-* Make it happen. Document successes and failures on a **Aspirational Contacts** file in [your google drive folder for this class](deliverables.md).
+* Make it happen. Document successes and failures on an **Aspirational Contacts** file in [your google drive folder for this class](deliverables.md).
 
 ## (OPTIONAL) Personal Board of Advisors
 * Solicit a personal board of advisors.
