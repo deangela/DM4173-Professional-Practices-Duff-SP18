@@ -12,7 +12,9 @@
 *Miscellaneous*
 * [AIGA Professional Resources](http://www.aiga.org/professional-resources)
 * [Pew Resarch](http://www.pewresearch.org/)
-
+* [Get A Design Job!](http://www.aiga.org/get-a-design-job) by RitaSue Siegel
+* [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516586778&sr=1-1-spell) by Adrian Shaughnessy 
+  
 *Job Boards*
 * [Glass Door](http://glassdoor.com)
 * [37 signals](http://jobs.37signals.com ) 
@@ -37,9 +39,11 @@
 * [smashing magazine: The Collective Legal Guide for Designers](http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/)
 * [Dealing with Clients who refuse to pay](http://www.smashingmagazine.com/2010/04/09/dealing-with-clients-who-refuse-to-pay)
 * [CSS Kill Switch](http://csskillswitch.com)
+* [Free Agent Nation: The Future of Working for Yourself](https://www.amazon.com/Free-Agent-Nation-Working-Yourself/dp/0446678791/ref=asap_bc?ie=UTF8)by Daniel Pink 
 
 *Entrepreneurship*
 * [The E-Myth Revisited](https://www.amazon.com/E-Myth-Revisited-Small-Businesses-About/dp/0887307280/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516833277&sr=8-1) by Michael Gerber
+* [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_1_twi_har_2?s=books&ie=UTF8&qid=1516586631&sr=1-1&keywords=rework) by Jason Fried and David Heinemeier Hansson.
 
 *Networking*
 * [Never Eat Alone](https://www.amazon.com/Never-Eat-Alone-Expanded-Updated/dp/B00H6JBFOS/ref=sr_1_1?s=books&ie=UTF8&qid=1516833304&sr=1-1&keywords=never+eat+alone) by Keith Ferrazzi 
@@ -52,6 +56,17 @@
 * [Indiegogo](http://www.indiegogo.com)
 * [PledgeMusic](http://pledgemusic.com)
 * [GoFundMe](http://gofundme.com)
+
+## Creativity
+
+* [Do the Work: Overcome Resistance and Get Out of Your Own Way](http://www.amazon.com/Do-Work-Overcome-Resistance-Your/dp/1936891379/ref=sr_1_1?ie=UTF8&qid=1440022776&sr=8-1&keywords=do+the+work) by Steven Pressfield
+* [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles](http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield<br>(If you like *Do The Work* by Steven Pressfield, which is pretty much a distillation of the principles in The War of Art, also by Steven Pressfield, I highly suggest you acquire this one as well.)
+
+##Lifestyle Design
+* [The 4-Hour Workweek, Expanded and Updated](http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357/ref=sr_1_2?s=books&ie=UTF8&qid=1312561321&sr=1-2) by Timothy Ferriss
+* [Anything You Want](http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118/ref=sr_1_1?s=books&ie=UTF8&qid=1312561032&sr=1-1) by Derek Sivers
+* [How To Stop Worrying & Start Living](https://www.amazon.com/How-stop-worrying-start-living-ebook/dp/B01NCV2RIR/) by Dale Carnegie
+* [The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World](http://www.amazon.com/Art-Non-Conformity-Rules-Change-World/dp/0399536108/ref=sr_1_1?s=books&ie=UTF8&qid=1312561247&sr=1-1) by Chris Guillebeau
 
 
 ## Documentation &amp; Presentation
@@ -82,8 +97,44 @@ _Sound_
 * [SoundCloud](http://soundcloud.com)
 * [TopSpinMedia](http://www.topspinmedia.com)
 
+## Exhibition &amp; Promotion
 
-**RECOMMENDED AUDIO PODCASTS**
+* [Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered ](http://www.amazon.com/Show-Your-Work-Creativity-Discovered/dp/076117897X/ref=sr_1_1?ie=UTF8&qid=1440022873&sr=8-1&keywords=show+your+work) by Austin Kleon
+
+## Ideation / Brainstorming
+
+_Idea Generation_
+
+* [Steal Like An Artist: 10 Things Nobody Told You About Being Creative](http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253/ref=sr_1_1?ie=UTF8&qid=1422468736&sr=8-1&keywords=steal+like+an+artist) by Austin Kleon
+* [Everything is a Remix](http://www.everythingisaremix.info/)
+
+## Design
+
+* [Graphic Design: The New Basics](https://www.amazon.com/Graphic-Design-Basics-Revised-Expanded/dp/161689332X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516898876&sr=8-1) by Ellen Lupton
+* [Thinking with Type](http://thinkingwithtype.com/)
+* [Lessons in Typography](https://www.amazon.com/Lessons-Typography-Must-know-typographic-principles/dp/0133993558/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516898915&sr=1-1) by Jim Krause
+
+* **Sitemaps**
+  * http://quirktools.com (smaps) 
+
+
+* **Wireframes / Schematics** 
+  * Illustrator
+  * OmniGraffle
+  * **[Moqups](http://moqups.com)**
+  * [Quirktools](http://quirktools.com) (wires)
+  * [Balsamiq](http://balsamiq.com)
+    * [mockupstogo.net](http://mockupstogo.net)
+  * [UX Pin's The Guide To Wireframing](http://uxpin.com/guide-to-wireframing.html)
+  * [How to Read a Wireframe](http://blog.fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf)
+  * [Flickr: I ♥ Wireframes](http://flickr.com/groups/ilovewireframes)
+  * [Flickr: A collection of wireframes](http://wireframes.tumblr.com)
+  * [Web Without Words](http://webwithoutwords.com)
+  * [Wireframe Showcase](http://wireframeshowcase.com)
+  * [Wireframes Magazine](http://wireframes.linowski.ca/tag/wireframe)
+  * [An argument for sketched sitemaps and wireframes/schematics](http://www.slideshare.net/pubsmith/sketching-interfaces-workshop-interactions12-dublin)
+
+## Recommended Audio Podcasts
 
 *   [Revision Path](https://itunes.apple.com/us/podcast/revision-path/id834173190?mt=2) Maurice Cherry interviews designers, developers, and other creators of color weekly.
 *   [The Tim Ferriss Show](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) Tim Ferriss deconstructs world-class performers from eclectic areas (investing, sports, business, art, etc.) to extract the tactics, tools, and routines you can use. This includes favorite books, morning routines, exercise habits, time-management tricks, and much more.
@@ -95,23 +146,10 @@ _Sound_
     *   In Season 3, rather than following one company over many episodes, they are telling stories about many companies that all have something in common: their companies are stuck, and they know they need to make a big change.
 
 
-**RECOMMENDED BOOKS**
-
-* [Anything You Want](http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118/ref=sr_1_1?s=books&ie=UTF8&qid=1312561032&sr=1-1) by Derek Sivers 
-* [Do the Work: Overcome Resistance and Get Out of Your Own Way](http://www.amazon.com/Do-Work-Overcome-Resistance-Your/dp/1936891379/ref=sr_1_1?ie=UTF8&qid=1440022776&sr=8-1&keywords=do+the+work) by Steven Pressfield
-* [Free Agent Nation: The Future of Working for Yourself](https://www.amazon.com/Free-Agent-Nation-Working-Yourself/dp/0446678791/ref=asap_bc?ie=UTF8)by Daniel Pink 
-* [Get A Design Job!](http://www.aiga.org/get-a-design-job) by RitaSue Siegel
-* [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516586778&sr=1-1-spell) by Adrian Shaughnessy 
-* [The 4-Hour Workweek, Expanded and Updated](http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357/ref=sr_1_2?s=books&ie=UTF8&qid=1312561321&sr=1-2) by Timothy Ferriss
-* [The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World](http://www.amazon.com/Art-Non-Conformity-Rules-Change-World/dp/0399536108/ref=sr_1_1?s=books&ie=UTF8&qid=1312561247&sr=1-1) by Chris Guillebeau
-* [How To Stop Worrying & Start Living](https://www.amazon.com/How-stop-worrying-start-living-ebook/dp/B01NCV2RIR/ref=sr_1_4?s=books&ie=UTF8&qid=1516674757&sr=1-4&keywords=dale+carnegie) by Dale Carnegie
-* [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_1_twi_har_2?s=books&ie=UTF8&qid=1516586631&sr=1-1&keywords=rework) by Jason Fried and David Heinemeier Hansson.  
-* [Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered ](http://www.amazon.com/Show-Your-Work-Creativity-Discovered/dp/076117897X/ref=sr_1_1?ie=UTF8&qid=1440022873&sr=8-1&keywords=show+your+work) by Austin Kleon
-* [Steal Like An Artist: 10 Things Nobody Told You About Being Creative](http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253/ref=sr_1_1?ie=UTF8&qid=1422468736&sr=8-1&keywords=steal+like+an+artist) by Austin Kleon
-* [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles](http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield<br>(If you like *Do The Work* by Steven Pressfield, which is pretty much a distillation of the principles in The War of Art, also by Steven Pressfield, I highly suggest you acquire this one as well.)
 
 
-## TIME MANAGEMENT & PRODUCTIVITY RESOURCES 
+
+## Time Management &amp; Productivity Resources 
 
 Hope these resources help. They've helped me, but the secret is discipline, focus, and prioritizing (which requires not doing something else). No system is a magic cure. A system only works if you use it daily.
 * [Personal Kanban](http://www.personalkanban.com)
@@ -155,7 +193,8 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 * [The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal by Jim Loehr & Tony Schwartz](http://www.amazon.com/The-Power-Full-Engagement-Performance/dp/0743226755/ref=sr_1_5?ie=UTF8&qid=1358355636&sr=8-5&keywords=tony+schwartz)
 
 
-**RECOMMENDED WRITING RESOURCES**
+# Recommended Writing Resources
 
 * [The Elements of Style, Fourth Edition](http://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_1?ie=UTF8&qid=1422276317&sr=8-1&keywords=stunk+and+whites+elements+of+style) by Strunk and White
 * [The Mac is Not a Typewriter](http://www.amazon.com/Mac-Not-Typewriter-2nd/dp/0201782634/ref=sr_1_1?ie=UTF8&qid=1422276493&sr=8-1&keywords=the+mac+is+not+a+typewriter) by Robin Williams
+* [Copywriting: Successful Writing for Design, Advertising and Marketing](https://www.amazon.com/Copywriting-Successful-Writing-Advertising-Marketing/dp/1780670001/ref=sr_1_5?s=books&ie=UTF8&qid=1516899375&sr=1-5&keywords=copywriting) by Mark Shaw

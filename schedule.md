@@ -19,10 +19,10 @@
 <td>
 <strong>What is the point of this course?</strong>
 <ul>
-<li>GUEST SPEAKER (Entrepreneur): <a href="https://en.wikipedia.org/wiki/Daniel_Delaney" target="_blank">Dan Delaney</a></li>
+<li>Guest Speaker (Entrepreneur): <a href="https://en.wikipedia.org/wiki/Daniel_Delaney" target="_blank">Dan Delaney</a></li>
 <li>Review <a href="syllabus.md">Syllabus</a></li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
-<li>SCREENING: <a href="http://www.ted.com/talks/lang/en/gary_vaynerchuk_do_what_you_love_no_excuses.html" target="_blank">Gary Vaynerchuk’s Do What You Love (No Excuses!)</a> 
+<li>Screening: <a href="http://www.ted.com/talks/lang/en/gary_vaynerchuk_do_what_you_love_no_excuses.html" target="_blank">Gary Vaynerchuk’s Do What You Love (No Excuses!)</a> 
 </ul></td>
 </tr>
 
@@ -56,6 +56,8 @@
     <li><a href="reflection_journal.md">Reflection Journal</a></li>
     <li><a href="values.md">Values</a></li>
     <li><a href="goals.md">Goals</a></li>
+    <li><a href="bio.md">Bio / About Page</a> 1st Draft</li>
+    
     </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </td>
@@ -70,6 +72,7 @@
     <ul>
     <li><a href="inspiration.md">Inspiration</li>    
     <li><a href="obituary_eulogy.md">Obituary or Eulogy</a></li>
+    <li><a href="cover_letter.md">Cover Letter</a> 1st Draft</li>
     </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul>
@@ -83,6 +86,7 @@
 <ul>
 <li><a href="creative_industries_research.md">Creative Industries Research</a></li>
 <li><a href="statement.md">Creative or Research Statement</a></li>
+<li><a href="resume.md">Resume</a> 1st Draft</li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -94,6 +98,7 @@
 <ul>
 <li><a href="1yrplan.md">1-Year Plan</a></li>
 <li><a href="1yearletter.md">1-Year Letter to Yourself</a></li>
+<li><a href="linkedin.md">LinkedIn Profile</a> 1st Draft</li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -101,11 +106,10 @@
 <tr>
 <td><strong>Mar 6</strong></td>
 <td>
-<strong>Who do you want to be?</strong>
+<strong>Steal Like An Artist</strong>
 <ul>
-<li><a href="bio.md">Bio / About Page</a> 1st Draft</li>
-<li><a href="linkedin.md">LinkedIn Profile</a> 1st Draft</li>
-<li><a href="cover_letter.md">Cover Letter</a> 1st Draft</li>
+<li><a href="promo.md">Self Promotion Brainstorming &amp; Research</a> </li>
+<li><a href="web_portfolio.md">Web Portfolio Research &amp; Design</a>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -119,13 +123,10 @@
 <tr>
 <td><strong>Mar 20</strong></td>
 <td>
-<strong>Who do you want to do?</strong>
+<strong>Show Your Work</strong>
 <ul>
-<li><a href="resume.md">Resume</a> 1st Draft</li>
-<li><a href="bio.md">Bio / About Page</a> 2nd Draft</li>
-<li><a href="linkedin.md">LinkedIn Profile</a> 2nd Draft</li>
-<li><a href="cover_letter.md">Cover Letter</a> 2nd Draft
-
+<li><a href="promo.md">Self Promotion Design</a> </li>
+<li><a href="web_portfolio.md">Web Portfolio Development</a>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -146,7 +147,6 @@
 <td><strong><i>Midterm One On One Appointments</i></strong><br>
 Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>
 <ul>
-<li>
 <li><a href="self_assessments.md">Midterm Self Assessment Due</a></li>
 <li>Status of <a href="fact-finding_interview.md">Fact-finding informational interview</a>
 
@@ -161,7 +161,7 @@ Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://cale
 <tr>
 <td><strong>Apr 3</strong></td>
 <td><strong>How will you promote yourself?</strong><ul>
-<li><a href="promo.md">Self Promotion</a></li>
+<li><a href="promo.md">Self Promotion</a> should be done by or before this date.</li>
 <li><a href="web_portfolio.md">Web Portfolio Development</a> 2nd Draft
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
@@ -199,10 +199,12 @@ Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://cale
 
 <tr>
 <td><strong>May 1</strong></td>
-<td>Watch the following and post your response on the designated slack channel. Do not write a summary. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own thoughts and ideas or how it will inform or change your future goals.<ul>
-<li>Group Share</li>
+<td><ul>
+<lI>Write a <a href="response.md">response</a> to the documentary and article we will discuss in class.</lI>
+<li>Group Discussion</li>
     <ul>
     <li><a href="https://vimeo.com/34608191" target="_blank">PressPausePlay Documentary</a></li>
+    <li><a href="http://www.fastcompany.com/magazine/162/average-time-spent-at-job-4-years?"  target="_blank">The Four-Year Career</a> by Anya Kamenetz</li> 
     </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
@@ -210,12 +212,14 @@ Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://cale
 
 <tr>
 <td><strong>May 8</strong></td>
-<td>Read the following and post your response on the designated slack channels. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while reading, how it reflects your own future goals (or does not and why) or how it will inform or change your own future goals (or will not and why).<ul>
-<li>Group Share</li>
+<td><ul>
+<li>Write a <a href="response.md">responses</a> to the Charlie Hoehn article we will discuss in class.
+<li>Group Discussion</li>
     <ul>
+    <li><a href="fact-finding_interview.md">Fact-finding informational interview</a> should be done by or before this date.</li>
     <li><a href="http://charliehoehn.files.wordpress.com/2009/07/recession-proof-graduate1.pdf" target="_blank">Recession-Proof Graduate: Charlie Hoehn’s Guide To Getting Any Job Within A Year Of  Finishing College</a> by Charlie Hoehn
-    <li><a href="http://www.fastcompany.com/magazine/162/average-time-spent-at-job-4-years?"  target="_blank">The Four-Year Career</a> by Anya Kamenetz</li> 
-    <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
+    </li>
+<li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
     </ul>
 </ul></td>
 </tr>
