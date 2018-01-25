@@ -84,9 +84,12 @@
 <td>
 <strong>What do you want your legacy to be?</strong>
 <ul>
-<li><a href="creative_industries_research.md">Creative Industries Research</a></li>
-<li><a href="statement.md">Creative or Research Statement</a></li>
-<li><a href="resume.md">Resume</a> 1st Draft</li>
+<li>Group Share</li>
+    <ul>
+    <li><a href="creative_industries_research.md">Creative Industries Research</a></li>
+    <li><a href="statement.md">Creative or Research Statement</a></li>
+    <li><a href="resume.md">Resume</a> 1st Draft</li>
+    </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -96,9 +99,12 @@
 <td>
 <strong>Who/What/Where do you want to be in one year?</strong>
 <ul>
-<li><a href="1yrplan.md">1-Year Plan</a></li>
-<li><a href="1yearletter.md">1-Year Letter to Yourself</a></li>
-<li><a href="linkedin.md">LinkedIn Profile</a> 1st Draft</li>
+<li>Group Share</li>
+    <ul>
+    <li><a href="1yrplan.md">1-Year Plan</a></li>
+    <li><a href="1yearletter.md">1-Year Letter to Yourself</a></li>
+    <li><a href="linkedin.md">LinkedIn Profile</a> 1st Draft</li>
+    </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -108,8 +114,11 @@
 <td>
 <strong>Steal Like An Artist</strong>
 <ul>
-<li><a href="promo.md">Self Promotion Brainstorming &amp; Research</a> </li>
-<li><a href="web_portfolio.md">Web Portfolio Research &amp; Design</a>
+<li>Group Share</li>
+    <ul>
+    <li><a href="promo.md">Self Promotion Brainstorming &amp; Research</a> </li>
+    <li><a href="web_portfolio.md">Web Portfolio Research &amp; Design</a></li>
+    </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -125,8 +134,11 @@
 <td>
 <strong>Show Your Work</strong>
 <ul>
-<li><a href="promo.md">Self Promotion Design</a> </li>
-<li><a href="web_portfolio.md">Web Portfolio Development</a>
+<li>Group Share</li>
+    <ul>
+    <li><a href="promo.md">Self Promotion Design</a> </li>
+    <li><a href="web_portfolio.md">Web Portfolio Development</a>
+    </li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -161,8 +173,12 @@ Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://cale
 <tr>
 <td><strong>Apr 3</strong></td>
 <td><strong>How will you promote yourself?</strong><ul>
-<li><a href="promo.md">Self Promotion</a> should be done by or before this date.</li>
-<li><a href="web_portfolio.md">Web Portfolio Development</a> 2nd Draft
+<ul>
+<li>Group Share</li>
+    <ul>
+    <li><a href="promo.md">Self Promotion</a> should be done by or before this date.</li>
+    <li><a href="web_portfolio.md">Web Portfolio Development</a> 2nd Draft</li>
+    </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
