@@ -259,6 +259,3 @@ Dates To Be Determined:
 * Guest Speaker (Industry):
 * Guest Speaker (Freelance):
 * Guest Speaker (Academic):
-
-Wasserman Center
-Leslie Elab
