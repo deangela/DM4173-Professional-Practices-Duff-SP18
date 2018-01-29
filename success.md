@@ -10,7 +10,7 @@ According to Dave Kohl, Professor Emeritus at Virginia Tech, people who regularl
 
 * Write down your personal definition of **success**? Be as specific and vivid as possible.
 * Is **success** even the right term for you? If not, please let me know your preferred language of how you would like to measure your progress in the future. 
-* You can go beyond your career goals and discuss whatever goals are currently on your mind in the following categories (not limited to):
+* You can go beyond your definition of career success and discuss whatever areas of success currently on your mind in the following categories (not limited to):
     * Education
     * Finances
     * Health/Fitness
