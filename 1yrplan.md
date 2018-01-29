@@ -15,6 +15,6 @@ _"You have brains in your head. You have feet in your shoes. You can steer yours
 * *What* do you want to **do**?
 * What do you want to **have**?
 * *How* will you plan the next year of your life by design, not by default?
-* What is your personal definition of **success**?
+
 
 

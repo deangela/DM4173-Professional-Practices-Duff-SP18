@@ -31,12 +31,14 @@
 <td>
 <strong>Which road will you choose? Should or Must.</strong>
 <ul>
-<li>Group Share</li>
+
+<li>Homework Group Share. Please bring your calendar, journal, and/or planner with you to class or bring in photos of your weekly and month view for February.</li>
     <ul>
     <li><a href="should_must.md">Should vs. Must</a>
     <li><a href="planner.md">Planner and/or Journal</a></li>
     <li><a href="calendar.md">Calendar</a></li>
     </ul>
+
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -54,10 +56,8 @@
 <li>Group Share</li>
     <ul>
     <li><a href="reflection_journal.md">Reflection Journal</a></li>
-    <li><a href="values.md">Values</a></li>
-    <li><a href="goals.md">Goals</a></li>
+    <li><a href="values.md">Values</a></li>    
     <li><a href="bio.md">Bio / About Page</a> 1st Draft</li>
-    
     </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </td>
