@@ -32,7 +32,7 @@
 <strong>Which road will you choose? Should or Must.</strong>
 <ul>
 
-<li>Homework Group Share. Please bring your calendar, journal, and/or planner with you to class or bring in photos of your weekly and month view for February.</li>
+<li>Homework Group Share. Please bring your calendar, journal, and/or planner with you to class OR bring in photos of different views of your calendar, journal, and/or planner.</li>
     <ul>
     <li><a href="should_must.md">Should vs. Must</a>
     <li><a href="planner.md">Planner and/or Journal</a></li>
