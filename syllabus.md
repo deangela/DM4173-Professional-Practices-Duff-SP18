@@ -59,6 +59,7 @@ by focusing on the most essential questions one can ask themselves:
 * *Where* do you want to live?
 * *What* do you want to **do**?
 * What do you want to **have**?
+* How do you measure **success** personally?
 * *How* will you plan your future by design, not by default?
 
 Students will also:
