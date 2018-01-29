@@ -17,6 +17,7 @@ with documentation of the following assignments:
 * [Reflection Journal](reflection_journal.md)
 * [Values and Mission Statement or Personal Motto](values.md)
 * [Goals](goals.md)
+* [Success](success.md)
 * [Midterm and Final Self Assessments](self_assessments.md)
 * [Obituary / Eulogy](obituary_eulogy.md)
 * [1-Year Plan](1yrplan.md)
