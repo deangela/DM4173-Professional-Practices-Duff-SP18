@@ -31,7 +31,14 @@
 <td>
 <strong>Which road will you choose? Should or Must.</strong>
 <ul>
-
+<li>What stuck from Dan Delaney’s visit</li>
+<li>In-Class Activities</li>
+    <ul>
+    <li>Listen to &amp; discuss "<a href="https://soundcloud.com/revisionpath/episode-227-rafael-smith#t=48:50">Your Dreams Are Your Responsibility.</a>" ~ Rafael Smith, Product Designer at IDEO, on <a href="https://soundcloud.com/revisionpath" target="_blank">Revision Path podcast</a>.</li>
+    <li><a href="goals.md">Goals</a></li>
+    <li>Listen to &amp; discuss "<a href="https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success#t-731968" target="_blank">A Kindler, Gentler Philosophy of Success</a>" by Alain De Botton</li>
+    <li><a href="success.md">Success</a></li>
+    </ul>
 <li>Homework Group Share. Please bring your calendar, journal, and/or planner with you to class OR bring in photos of different views of your calendar, journal, and/or planner.</li>
     <ul>
     <li><a href="should_must.md">Should vs. Must</a>
