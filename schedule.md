@@ -60,16 +60,18 @@
 <td valign="top">
 <strong>What is MOST important to you?</strong>
 <ul>
+<li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 <li>Group Share</li>
     <ul>
     <li><a href="reflection_journal.md">Reflection Journal</a></li>
     <li><a href="values.md">Values</a></li>    
     <li><a href="bio.md">Bio / About Page</a> 1st Draft</li>
     </ul>
-<li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
+
+<li>If time In-Class Activity</li>
+<ul><li><a href="goals.md">Goals</a></li></ul>
 </td>
 </tr>
-
 <tr>
 <td><strong>Feb 13</strong></td>
 <td>
@@ -77,6 +79,7 @@
     <ul>
     <li>Group Share</li>
     <ul>
+    <li><a href="goals.md">Goals</a></li>
     <li><a href="inspiration.md">Inspiration</li>    
     <li><a href="obituary_eulogy.md">Obituary or Eulogy</a></li>
     <li><a href="cover_letter.md">Cover Letter</a> 1st Draft</li>
