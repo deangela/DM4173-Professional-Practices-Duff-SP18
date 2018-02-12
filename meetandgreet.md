@@ -4,7 +4,7 @@
 # IDM Meet &amp; Greet
 
 * You are required to participate in the IDM Meet & Greet as part of your grade.
-* Date TBD.
+* Date: Mar 28 @ 6pm.
 
 
 
