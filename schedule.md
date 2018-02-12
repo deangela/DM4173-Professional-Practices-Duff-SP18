@@ -60,6 +60,7 @@
 <td valign="top">
 <strong>What is MOST important to you?</strong>
 <ul>
+<li>Guest Speaker (Fulltime Freelancer): <a href="http://www.jimmy-simpson.com" target="_blank">Jimmy Simpson</a></li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 <li>Group Share</li>
     <ul>
@@ -77,6 +78,9 @@
 <td>
 <strong>How do you want to be remembered?</strong>
     <ul>
+    <li>What stuck from Jimmy Simpson’s visit</li>
+    <li>Discuss repurcussions of just announced commencement date (Tue May 15th)</li>
+    <li>Mar 28 @ 6pm <a href="meetandgreet.md">IDM Meet &amp; Greet</a></li>
     <li>Group Share</li>
     <ul>
     <li><a href="goals.md">Goals</a></li>
@@ -165,6 +169,11 @@
 </tr>
 
 <tr>
+<td>Mar 28 @ 6pm</td>
+<td><a href="meetandgreet.md">IDM Meet &amp; Greet</a></td>
+</tr>
+
+<tr>
 <td><strong>Mar 28, 29, or 30</strong></td>
 <td><strong><i>Midterm One On One Appointments</i></strong><br>
 Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>
@@ -226,11 +235,15 @@ Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://cale
 <tr>
 <td><strong>May 1</strong></td>
 <td><ul>
-<lI>Write a <a href="response.md">response</a> to the documentary and article we will discuss in class.</lI>
+<li>Write a <a href="response.md">response</a> to the PressPausePlay documentary and article we will discuss in class.</li>
+<li>Write a <a href="response.md">responses</a> to the Charlie Hoehn article we will discuss in class.</li>
 <li>Group Discussion</li>
     <ul>
+    <li><a href="fact-finding_interview.md">Fact-finding informational interview</a> should be done by or before this date.</li>
     <li><a href="https://vimeo.com/34608191" target="_blank">PressPausePlay Documentary</a></li>
     <li><a href="http://www.fastcompany.com/magazine/162/average-time-spent-at-job-4-years?"  target="_blank">The Four-Year Career</a> by Anya Kamenetz</li> 
+    <li><a href="http://charliehoehn.files.wordpress.com/2009/07/recession-proof-graduate1.pdf" target="_blank">Recession-Proof Graduate: Charlie Hoehn’s Guide To Getting Any Job Within A Year Of  Finishing College</a> by Charlie Hoehn
+    </li>
     </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
@@ -238,34 +251,27 @@ Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://cale
 
 <tr>
 <td><strong>May 8</strong></td>
-<td><ul>
-<li>Write a <a href="response.md">responses</a> to the Charlie Hoehn article we will discuss in class.
-<li>Group Discussion</li>
-    <ul>
-    <li><a href="fact-finding_interview.md">Fact-finding informational interview</a> should be done by or before this date.</li>
-    <li><a href="http://charliehoehn.files.wordpress.com/2009/07/recession-proof-graduate1.pdf" target="_blank">Recession-Proof Graduate: Charlie Hoehn’s Guide To Getting Any Job Within A Year Of  Finishing College</a> by Charlie Hoehn
-    </li>
-<li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
-    </ul>
-</ul></td>
+<td>
+<ul>
+<li><a href="presentation.md">Ignite or Pecha Kucha Slideshow Presentation</a></li>
+</ul>
+</td>
 </tr>
 
 <tr>
-<td><strong>May 15</strong></td>
-<td>
-<strong>How will you live a life by design and not by default?</strong>
+<td><strong>May 9, 10, 11, or 14</strong></td>
+<td><strong><i>Final One On One Appointments</i></strong><br>
+Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>
 <ul>
-<li><a href="presentation.md">Ignite or Pecha Kucha Slideshow Presentation</a></li>
 <li><a href="self_assessments.md">Final Self Assessment Due</a></li>
 </ul></td>
 </tr>
 </table>
 
 Dates To Be Determined:
-* <a href="meetandgreet.md">MAGNET Meet &amp; Greet</a>
+* 
 * <a href="idm_student_showcase.md">IDM End of Year Student Showcase</a>
 * Mock Interview
 * Guest Speaker (Creative):
 * Guest Speaker (Industry):
-* Guest Speaker (Freelance):
 * Guest Speaker (Academic):
