@@ -115,6 +115,7 @@
 <ul>
 <li>Group Share</li>
     <ul>
+    <li>Read <a href="https://jamesclear.com/goals-systems" target="_blank">Forget About Setting Goals. Focus on This Instead.</a> Share your thoughts on the slack channel. What stood out? What are your takeaways? Do you agree or disagree? etc.</li>
     <li><a href="1yrplan.md">1-Year Plan</a></li>
     <li><a href="1yearletter.md">1-Year Letter to Yourself</a></li>
     <li><a href="linkedin.md">LinkedIn Profile</a> 1st Draft</li>
