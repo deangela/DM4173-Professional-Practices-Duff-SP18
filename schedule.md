@@ -152,8 +152,8 @@
 <li>Group Share</li>
     <ul>
     <li><a href="promo.md">Self Promotion Design</a> </li>
-    <li><a href="web_portfolio.md">Web Portfolio Development</a>
-    </li>
+    <li><a href="web_portfolio.md">Web Portfolio Development</a></li>
+    </ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -161,9 +161,12 @@
 <tr>
 <td><strong>Mar 27</strong></td>
 <td>
-<strong>What are you passionate about?</strong>
+<strong>How will you promote yourself?</strong>
 <ul>
-<li><a href="presentation.md">Ignite or Pecha Kucha Slideshow Presentation</a></li>
+    <li><a href="promo.md">Self Promotion</a> should be done by or before this date.</li>
+    <li><a href="web_portfolio.md">Web Portfolio Development</a> 2nd Draft</li>
+    </ul>
+<ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul>
 </td>
@@ -192,13 +195,10 @@ Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://cale
 
 <tr>
 <td><strong>Apr 3</strong></td>
-<td><strong>How will you promote yourself?</strong><ul>
+<td><strong>What are you passionate about?</strong><ul>
 <ul>
 <li>Group Share</li>
-    <ul>
-    <li><a href="promo.md">Self Promotion</a> should be done by or before this date.</li>
-    <li><a href="web_portfolio.md">Web Portfolio Development</a> 2nd Draft</li>
-    </ul>
+<li><a href="presentation.md">Ignite or Pecha Kucha Slideshow Presentation</a></li> 
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
