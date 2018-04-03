@@ -208,7 +208,18 @@ Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://cale
 <td>
 <strong>Are you good at networking, interviewing, and negotiating?</strong>
 <ul>
-<li>Your <a href="network.md">professional networking</a> requirement should be done by or before this date.</li>
+
+<li>Write a <a href="response.md">response</a> to the PressPausePlay documentary and article we will discuss in class.</li>
+<li>Write a <a href="response.md">response</a> to the The Four-Year Career by Anya Kamenetz</li> 
+<li>Write a <a href="response.md">responses</a> to the Charlie Hoehn article we will discuss in class.</li>
+<li>Group Discussion</li>
+    <ul>
+    
+    <li><a href="https://vimeo.com/34608191" target="_blank">PressPausePlay Documentary</a></li>
+    <li><a href="http://www.fastcompany.com/magazine/162/average-time-spent-at-job-4-years?"  target="_blank">The Four-Year Career</a> by Anya Kamenetz</li> 
+    <li><a href="http://charliehoehn.files.wordpress.com/2009/07/recession-proof-graduate1.pdf" target="_blank">Recession-Proof Graduate: Charlie Hoehn’s Guide To Getting Any Job Within A Year Of  Finishing College</a> by Charlie Hoehn
+    </li>
+    </ul>
 <li>Discussion</li>
     <ul>
     <li>Networking</li>
@@ -228,7 +239,7 @@ Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://cale
 <tr>
 <td><strong>Apr 24</strong></td>
 <td><ul>
-<li><a href="mock_interview.md">Mock Interviews</a> (Tentative)</li>
+<li>Review Deliverables
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -236,17 +247,12 @@ Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://cale
 <tr>
 <td><strong>May 1</strong></td>
 <td><ul>
-<li>Write a <a href="response.md">response</a> to the PressPausePlay documentary and article we will discuss in class.</li>
-<li>Write a <a href="response.md">responses</a> to the Charlie Hoehn article we will discuss in class.</li>
-<li>Group Discussion</li>
-    <ul>
-    <li><a href="fact-finding_interview.md">Fact-finding informational interview</a> should be done by or before this date.</li>
-    <li><a href="https://vimeo.com/34608191" target="_blank">PressPausePlay Documentary</a></li>
-    <li><a href="http://www.fastcompany.com/magazine/162/average-time-spent-at-job-4-years?"  target="_blank">The Four-Year Career</a> by Anya Kamenetz</li> 
-    <li><a href="http://charliehoehn.files.wordpress.com/2009/07/recession-proof-graduate1.pdf" target="_blank">Recession-Proof Graduate: Charlie Hoehn’s Guide To Getting Any Job Within A Year Of  Finishing College</a> by Charlie Hoehn
-    </li>
-    </ul>
+<li><a href="fact-finding_interview.md">Fact-finding informational interview</a> should be done by or before this date.</li>
+<li>Your <a href="network.md">professional networking</a> requirement should be done by or before this date.</li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
+<li>Discussion</li>
+<ul>
+<li>Fact-finding Interview and Professional Networking</li>
 </ul></td>
 </tr>
 
