@@ -154,6 +154,7 @@
     <li><a href="promo.md">Self Promotion Design</a> </li>
     <li><a href="web_portfolio.md">Web Portfolio Development</a></li>
     </ul>
+<li>Virtual Guest (Industry): <a href="http://www.lbtowles.com/about/" target="_blank">Lauren Towles</a>, IDM alumna</li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -167,13 +168,14 @@
     <li><a href="web_portfolio.md">Web Portfolio Development</a> 2nd Draft</li>
     </ul>
 <ul>
+<li>Guest (Academic): Carl Hewitt, NYU alumni</li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul>
 </td>
 </tr>
 
 <tr>
-<td>Mar 28 @ 6pm</td>
+<td>Mar 28 @ 6pm (start time; setup is earlier)</td>
 <td><a href="meetandgreet.md">IDM Meet &amp; Greet</a></td>
 </tr>
 
@@ -208,25 +210,23 @@ Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://cale
 <td>
 <strong>Are you good at networking, interviewing, and negotiating?</strong>
 <ul>
-
-<li>Write a <a href="response.md">response</a> to the PressPausePlay documentary and article we will discuss in class.</li>
-<li>Write a <a href="response.md">response</a> to the The Four-Year Career by Anya Kamenetz</li> 
-<li>Write a <a href="response.md">responses</a> to the Charlie Hoehn article we will discuss in class.</li>
+<li>Present your <a href="presentation.md">Ignite or Pecha Kucha Slideshow Presentation</a> **IF you did not present last week.**</li> 
+<li>Write <a href="responses.md">responses</a> to:</li>
+    <ul>
+    <li><a href="https://vimeo.com/34608191" target="_blank">PressPausePlay Documentary</a></li>
+    <li><a href="http://www.fastcompany.com/magazine/162/average-time-spent-at-job-4-years?"  target="_blank">The Four-Year Career</a> by Anya Kamenetz</li> 
+    <li><a href="http://charliehoehn.files.wordpress.com/2009/07/recession-proof-graduate1.pdf" target="_blank">Recession-Proof Graduate: Charlie Hoehn’s Guide To Getting Any Job Within A Year Of  Finishing College</a> by Charlie Hoehn
+    </li>
 <li>Group Discussion</li>
     <ul>
-    
+    <li>Pecha Kucha Reflection</li>
+    <li>IDM Meet and Greet Reflection</li>
     <li><a href="https://vimeo.com/34608191" target="_blank">PressPausePlay Documentary</a></li>
     <li><a href="http://www.fastcompany.com/magazine/162/average-time-spent-at-job-4-years?"  target="_blank">The Four-Year Career</a> by Anya Kamenetz</li> 
     <li><a href="http://charliehoehn.files.wordpress.com/2009/07/recession-proof-graduate1.pdf" target="_blank">Recession-Proof Graduate: Charlie Hoehn’s Guide To Getting Any Job Within A Year Of  Finishing College</a> by Charlie Hoehn
     </li>
     </ul>
-<li>Discussion</li>
-    <ul>
-    <li>Networking</li>
-    <li>Interview Techniques</li>
-    <li>Salary Negotiation</li>
-    <li>Freelance Practices</li>
-    </ul>
+
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -238,31 +238,48 @@ Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://cale
 
 <tr>
 <td><strong>Apr 24</strong></td>
-<td><ul>
-<li>Review Deliverables
+<td>
+<strong>Are you ready for YOUR next chapter?</strong>
+<ul>
+<li>Review <a href="deliverables.md">Deliverables</a>
+<li><a href="fact-finding_interview.md">Fact-finding informational interview</a> should be done by or before this date.</li>
+<li>Your <a href="network.md">professional networking</a> requirement should be done by or before this date.</li>
+<li>Discussion</li>
+    <ul>
+    <li>Fact-finding Interview and Professional Networking</li>
+    <li>Networking</li>
+    <li>Interview Techniques</li>
+    <li>Salary Negotiation</li>
+    <li>Freelance Practices</li>
+    </ul>
+</ul>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
 
 <tr>
 <td><strong>May 1</strong></td>
-<td><ul>
-<li><a href="fact-finding_interview.md">Fact-finding informational interview</a> should be done by or before this date.</li>
-<li>Your <a href="network.md">professional networking</a> requirement should be done by or before this date.</li>
-<li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
-<li>Discussion</li>
+<td>
+<strong>Your Future Self</strong>
 <ul>
-<li>Fact-finding Interview and Professional Networking</li>
-</ul></td>
+<li>Guest</li>
+<li><a href="presentation.md">Ignite or Pecha Kucha Slideshow Presentation</a></li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Mar 4 @ 6pm (showtime; setup is earlier)</td>
+<td><a href="idm_student_showcase.md">IDM End of Year Student Showcase</a></td>
 </tr>
 
 <tr>
 <td><strong>May 8</strong></td>
 <td>
+<strong>Your Future Self continued</strong>
 <ul>
-<li><a href="presentation.md">Ignite or Pecha Kucha Slideshow Presentation</a></li>
-</ul>
-</td>
+<li><a href="presentation.md">Ignite or Pecha Kucha Slideshow Presentation</a> continued</li>
+</ul></td>
 </tr>
 
 <tr>
@@ -276,9 +293,5 @@ Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://cale
 </table>
 
 Dates To Be Determined:
-* 
 * <a href="idm_student_showcase.md">IDM End of Year Student Showcase</a>
 * Mock Interview
-* Guest Speaker (Creative):
-* Guest Speaker (Industry):
-* Guest Speaker (Academic):

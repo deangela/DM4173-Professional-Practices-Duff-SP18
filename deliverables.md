@@ -32,7 +32,7 @@ with documentation of the following assignments:
 **Exhibition & Promotion**
 
 * [IDM End of Year Student Showcase](idm_student_showcase.md)
-* [Promo Material)](promo.md)
+* [Promo Material](promo.md)
 
 **Career Preparation**
 
