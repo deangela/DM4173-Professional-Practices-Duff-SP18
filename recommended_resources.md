@@ -17,7 +17,8 @@
   
 *Job Boards*
 * [Glass Door](http://glassdoor.com)
-* [37 signals](http://jobs.37signals.com ) 
+* [Uncubed](https://uncubed.com)
+* [We Work Remotely](https://weworkremotely.com) 
 * [AIGA Design Jobs](http://designjobs.aiga.org)
 * [Creative Applications](http://www.creativeapplications.net/job-board)
 * [Krop](http://www.krop.com)

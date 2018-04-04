@@ -19,7 +19,7 @@
 <td>
 <strong>What is the point of this course?</strong>
 <ul>
-<li>Guest Speaker (Entrepreneur): <a href="https://en.wikipedia.org/wiki/Daniel_Delaney" target="_blank">Dan Delaney</a></li>
+<li>Guest (Entrepreneur): <a href="https://en.wikipedia.org/wiki/Daniel_Delaney" target="_blank">Dan Delaney</a></li>
 <li>Review <a href="syllabus.md">Syllabus</a></li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 <li>Screening: <a href="http://www.ted.com/talks/lang/en/gary_vaynerchuk_do_what_you_love_no_excuses.html" target="_blank">Gary Vaynerchuk’s Do What You Love (No Excuses!)</a> 
@@ -60,7 +60,7 @@
 <td valign="top">
 <strong>What is MOST important to you?</strong>
 <ul>
-<li>Guest Speaker (Fulltime Freelancer): <a href="http://www.jimmy-simpson.com" target="_blank">Jimmy Simpson</a></li>
+<li>Guest (Fulltime Freelancer): <a href="http://www.jimmy-simpson.com" target="_blank">Jimmy Simpson</a></li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 <li>Group Share</li>
     <ul>
