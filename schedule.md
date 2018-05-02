@@ -154,7 +154,7 @@
     <li><a href="promo.md">Self Promotion Design</a> </li>
     <li><a href="web_portfolio.md">Web Portfolio Development</a></li>
     </ul>
-<li>Virtual Guest (Industry): <a href="http://www.lbtowles.com/about/" target="_blank">Lauren Towles</a>, IDM alumna</li>
+<li>Virtual Guest (UX researcher): <a href="http://www.lbtowles.com/about/" target="_blank">Lauren Towles</a>, IDM alumna</li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -168,7 +168,7 @@
     <li><a href="web_portfolio.md">Web Portfolio Development</a> 2nd Draft</li>
     </ul>
 <ul>
-<li>Guest (Academic): Carl Hewitt, NYU alumni</li>
+<li>Guest (PhD Student): Carl Hewitt, NYU alumni</li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul>
 </td>
@@ -262,14 +262,15 @@ Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://cale
 <td>
 <strong>Your Future Self</strong>
 <ul>
-<li>Guest</li>
+<li>Guest (designer &amp; developer): <a href="http://cattsmall.com/" target="_blank">Catt Small, IDM alumna</li>
+<li>Guest Artist (professional artist): <a href="http://www.katherinebennett.net/" target="_blank">Katherine Bennett</a></li>
 <li><a href="presentation.md">Ignite or Pecha Kucha Slideshow Presentation</a></li>
 </ul>
 </td>
 </tr>
 
 <tr>
-<td>Mar 4 @ 6pm (showtime; setup is earlier)</td>
+<td>May 4 @ 6pm (showtime; setup is earlier)</td>
 <td><a href="idm_student_showcase.md">IDM End of Year Student Showcase</a></td>
 </tr>
 
@@ -278,6 +279,7 @@ Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://cale
 <td>
 <strong>Your Future Self continued</strong>
 <ul>
+<li>What stuck from the guests presentations from last week?</li>
 <li><a href="presentation.md">Ignite or Pecha Kucha Slideshow Presentation</a> continued</li>
 </ul></td>
 </tr>
@@ -291,7 +293,3 @@ Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://cale
 </ul></td>
 </tr>
 </table>
-
-Dates To Be Determined:
-* <a href="idm_student_showcase.md">IDM End of Year Student Showcase</a>
-* Mock Interview
